@@ -1,0 +1,19 @@
+body {
+  color: var(--new-black);
+  background-color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  h1 {
+    font-family: WF Visual Sans, Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.04;
+  }
+  p {
+    font-family: WF Visual Sans Text, Arial, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.6;
+  }
+}
