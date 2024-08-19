@@ -1,0 +1,8 @@
+# .gitignore
+
+# IDE/editor specific
+.idea/
+.vscode/
+
+# Virtual environments
+.venv/
